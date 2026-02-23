@@ -14,7 +14,8 @@ It includes exploratory data analysis, regression, clustering, and geographic vi
 - `6_2_Exploratory_Visualization.py` – Creates scatterplots, pairplots, and correlation heatmaps  
 - `6_3_Geographic_Mapping.py` – Builds choropleth map by country  
 - `6_4_Regression_Analysis.py` – Linear regression to predict average score  
-- `6_5_Clustering.py` – K Means clustering of universities  
+- `6_5_Clustering.py` – K Means clustering of universities
+- `6_6_ Time series data.py
 
 ## Tableau Storyboard
 View the interactive Tableau storyboard here:  
